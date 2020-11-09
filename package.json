@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Pedro Emanoel",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/eslint": "^7.2.4",
     "@types/jest": "^26.0.15",
