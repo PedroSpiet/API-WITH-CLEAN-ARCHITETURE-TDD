@@ -5,7 +5,7 @@
   "author": "Pedro Emanoel",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests --watch"
   },
   "devDependencies": {
     "@types/eslint": "^7.2.4",
